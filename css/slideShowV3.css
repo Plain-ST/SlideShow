@@ -1,0 +1,27 @@
+.title{
+  text-align: center;
+  font-size: xx-large;
+}
+.main{
+  text-align: center;
+}
+.main img{
+  vertical-align: middle;
+  width:300px;
+}
+.main button{
+  font-size: 24px;
+}
+.control{
+  text-align: center;
+}
+.thumbnails{
+  text-align: center;
+}
+.thumbnails img{
+  opacity: 0.5;
+  width: 50px;
+}
+.thumbnails .selected{
+  opacity: 1.0;
+}
